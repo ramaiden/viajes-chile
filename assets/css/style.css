@@ -1,8 +1,15 @@
-#fotonavbar {
-    height: 30px;
-    width: 30px;
+body {
+    background-color: black;
 }
 
-.navbar {
-    color: white;
+#fotonavbar {
+    height: 1em;
+    width: 1em;
 }
+
+#quienessomos {
+color: white;
+font-weight: lighter;
+
+}
+
